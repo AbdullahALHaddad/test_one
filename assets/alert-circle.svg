@@ -1,0 +1,6 @@
+<svg id="alert-circle" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_270" data-name="Path 270" d="M0,0H24V24H0Z" fill="none"/>
+  <circle id="Ellipse_29" data-name="Ellipse 29" cx="9" cy="9" r="9" transform="translate(3 3)" fill="none" stroke="#262c34" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <line id="Line_23" data-name="Line 23" y2="4" transform="translate(12 8)" fill="none" stroke="#262c34" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <line id="Line_24" data-name="Line 24" x2="0.01" transform="translate(12 16)" fill="none" stroke="#262c34" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>
